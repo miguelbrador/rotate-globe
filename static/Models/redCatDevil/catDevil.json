@@ -1,0 +1,11 @@
+{
+	"catDevil": {
+		"version": 1,
+		"id": "catDevil",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 8.333333333
+	}
+}
