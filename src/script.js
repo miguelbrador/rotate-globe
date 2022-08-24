@@ -8,9 +8,7 @@
  import * as dat from 'lil-gui'
  import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
  import { DRACOLoader } from 'three/examples/jsm/loaders/DRACOLoader.js'
- import gsap from 'gsap'
- import '@fortawesome/fontawesome-free/css/all.css'
- import '@fortawesome/fontawesome-free/js/all.js'
+
  
  /**
   * Base
