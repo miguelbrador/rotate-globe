@@ -1,0 +1,11 @@
+{
+	"idleCatDevil": {
+		"version": 1,
+		"id": "idleCatDevil",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 3.266666667
+	}
+}
